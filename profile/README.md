@@ -1,32 +1,64 @@
+<div align="center">
+
 # VORNIS
 
-## Lokale KI-Systeme für vertrauliche Daten und internes Wissen
+### Lokale KI-Systeme für vertrauliche Daten und internes Wissen
 
-VORNIS entwickelt lokale KI-Assistenten und Wissenssysteme für Organisationen mit sensiblen Daten, klaren Datenschutzanforderungen und nachvollziehbaren Prozessen.
+Nachvollziehbare digitale Unterstützung für Organisationen mit sensiblen Daten und klaren Verantwortlichkeiten.
 
-Unsere Lösungen werden innerhalb definierter Unternehmensgrenzen betrieben. Sie verbinden freigegebene Dokumente, internes Wissen, bestehende Anwendungen und kontrollierte Automatisierungen zu einer prüfbaren digitalen Unterstützung.
+[Website](https://vornis.de) · [Kontakt](mailto:info@vornis.de)
 
-## Schwerpunkte
+</div>
 
-- **Lokale KI-Agenten:** Auf konkrete Aufgaben und bestehende Arbeitsumgebungen zugeschnitten
-- **Strukturierte Wissensnutzung:** Interne Dokumente und Fachwissen gezielt erschließen
-- **Quellenbasierte Unterstützung:** Ergebnisse nachvollziehbar mit ihren Grundlagen verbinden
-- **Kontrollierte Automatisierung:** Prozesse mit klaren Freigaben und sichtbaren Systemgrenzen unterstützen
-- **Infrastruktur und Betrieb:** Technische Grundlagen passend zu Schutzbedarf und Verantwortlichkeiten aufbauen
+---
 
-## Entwicklungsgrundsätze
+## Technologie, die in die Arbeitsumgebung passt
 
-- Daten und Prozesse verbleiben in einer klar definierten Umgebung.
-- Ergebnisse müssen nachvollziehbar und prüfbar sein.
-- Automatisierungen ersetzen keine fachliche Verantwortung.
-- Berechtigungen, Freigaben und Systemgrenzen werden explizit behandelt.
-- Belastbare technische Grundlagen haben Vorrang vor kurzfristigen Trends.
+VORNIS entwickelt lokale KI-Assistenten und Wissenssysteme. Wir verbinden freigegebene Dokumente, internes Wissen, bestehende Anwendungen und kontrollierte Prozesse zu Lösungen, die innerhalb klar definierter Unternehmensgrenzen betrieben werden können.
 
-## Repositories
+<table>
+<tr>
+<td width="33%" valign="top">
 
-Ein Großteil unserer Entwicklung findet derzeit in privaten Repositories statt. Öffentliche Komponenten und technische Dokumentation werden gezielt veröffentlicht, sobald sie einen stabilen und nachvollziehbaren Stand erreicht haben.
+### Lokal betreibbar
 
-## Kontakt
+Daten und Prozesse verbleiben in einer definierten Umgebung.
 
-- [vornis.de](https://vornis.de)
-- [info@vornis.de](mailto:info@vornis.de)
+</td>
+<td width="33%" valign="top">
+
+### Quellenbasiert
+
+Ergebnisse bleiben mit ihren fachlichen Grundlagen nachvollziehbar.
+
+</td>
+<td width="33%" valign="top">
+
+### Arbeitsnah gestaltet
+
+Systeme werden an reale Abläufe, Rollen und Verantwortlichkeiten angepasst.
+
+</td>
+</tr>
+</table>
+
+## Woran wir arbeiten
+
+- lokale KI-Agenten für klar eingegrenzte Aufgaben
+- strukturierte Nutzung von Dokumenten und internem Fachwissen
+- kontrollierte Automatisierung mit sichtbaren Freigaben
+- passende Infrastruktur, Oberflächen und Betriebsmodelle
+
+## Unser Maßstab
+
+> Klare Aussagen, nachvollziehbare Grenzen und belastbare technische Grundlagen.
+
+Automatisierung unterstützt Mitarbeitende, ohne fachliche Verantwortung zu verlagern. Berechtigungen, Quellen und Systemgrenzen werden deshalb von Beginn an berücksichtigt.
+
+---
+
+<div align="center">
+
+[vornis.de](https://vornis.de) · [info@vornis.de](mailto:info@vornis.de)
+
+</div>
